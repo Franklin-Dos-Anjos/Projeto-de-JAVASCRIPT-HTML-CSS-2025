@@ -5,7 +5,7 @@ Este é um site interativo desenvolvido com **JavaScript, HTML e CSS**, que apre
 O foco do projeto é demonstrar **interações visuais dinâmicas** usando JavaScript puro, destacando o potencial das linguagens front-end sem necessidade de frameworks.
 
 🔗 **Acesse o site:**  
-[franklin-dos-anjos.github.io/Projeto-de-JAVASCRIPT-HTML-CSS-2025](https://franklin-dos-anjos.github.io/Projeto-de-JAVASCRIPT-HTML-CSS-2025/)
+[franklin-dos-anjos.github.io/Projeto-de-JAVASCRIPT-HTML-CSS-2025] (https://franklin-dos-anjos.github.io/Projeto-de-JAVASCRIPT-HTML-CSS-2025/)
 
 ---
 
@@ -30,19 +30,22 @@ O foco do projeto é demonstrar **interações visuais dinâmicas** usando JavaS
    ```bash
    git clone https://github.com/Franklin-Dos-Anjos/Projeto-de-JAVASCRIPT-HTML-CSS-2025.git
 
-2. Acesse a pasta do projeto
+2. Acesse a pasta do projeto:
     bash
       cd Projeto-de-JAVASCRIPT-HTML-CSS-2025
+      
 3. Abra o arquivo index.html no navegador. 
     Ou simplesmente clique duas vezes sobre o arquivo para visualizar o site localmente.
+    
 4.📁 Estrutura básica:
 📦 Projeto-de-JAVASCRIPT-HTML-CSS-2025
 ├── index.html
 ├── style.css
 ├── script.js
-└── assets/
-    ├── imagens do produto
-    └── ícones e outros recursos
+└── imagens/
+    ├── opcoes-cores
+    └── outros-recursos
+    
 👨‍💻 Autor: Desenvolvido por Franklin dos Anjos 
 💬 Entre em contato pelo GitHub para dúvidas, sugestões ou colaborações.
 
